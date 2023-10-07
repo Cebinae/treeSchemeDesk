@@ -1,0 +1,46 @@
+.nodeContainer {
+    /* width: 15vh; //////////////////// */
+    width: auto;
+    overflow: visible;
+    display: flex;
+    flex-direction: row;
+    /* justify-content: start; */
+    background-color: transparent;
+    height: 5vh;
+    /* width: auto; */
+    aspect-ratio: unset;
+    /* background-color: white; */
+    margin-top: 5vh;
+    position: relative;
+}
+
+.label{
+    color: black;
+}
+
+.input {
+    /* height: 100%; */
+    width: max-content;
+    aspect-ratio: 21/9;
+    position: relative;
+    z-index: 1;
+    background-color: rgb(160, 87, 87);
+    color:gray;
+    border: 0;
+    display: block;
+}
+
+.buttonsssRow {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    z-index: 1;
+    background-color: rgb(92, 83, 83);
+    height: 60%;
+    width: 100px;
+    /* justify-self: end; */
+    color:rgb(0, 0, 0);
+    /* margin-left: 10px; */
+    align-self: center;
+    /* margin-right: 60px; */
+}

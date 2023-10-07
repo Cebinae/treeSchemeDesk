@@ -1,0 +1,11 @@
+.createNodeBtn{
+    background-color: gray;
+    height: 30px;
+    width: 30px;
+    margin-left: 3px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    cursor: pointer;
+}
+

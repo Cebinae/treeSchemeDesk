@@ -1,0 +1,11 @@
+.menuWrapper{
+    background-color: #f5f7fb;
+    /* width: 600px; */
+    height: 50%;
+    align-self: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    margin: 0;
+    padding: 0;
+}

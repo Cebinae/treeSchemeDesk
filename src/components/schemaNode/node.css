@@ -1,0 +1,27 @@
+.nodeContainer {
+    width: 15vh;
+    aspect-ratio: 21/9;
+    background-color: white;
+    margin:1vh;
+    overflow: clip;
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+}
+
+.label{
+    color: black;
+}
+
+.input {
+    height: 100%;
+    background-color: white;
+    color:gray;
+    border: 0;
+}
+
+.buttonsRow {
+    background-color: black;
+    height: 100%;
+    width: auto;
+}

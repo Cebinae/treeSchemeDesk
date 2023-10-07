@@ -1,0 +1,8 @@
+.viewList{
+    height: 100%;
+    aspect-ratio: 16/9;
+    width: auto;
+    text-align: center;
+    background-color: #6b76d7;
+    /* margin-right: 10px; */
+}

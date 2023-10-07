@@ -1,0 +1,10 @@
+.submitBtn{
+    background-color: rgb(27, 201, 134);
+    height: 30px;
+    width: 30px;
+    margin-left: 3px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    cursor: pointer;
+}

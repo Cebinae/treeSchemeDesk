@@ -1,0 +1,14 @@
+.deskSurface {
+    cursor: move;
+    height: 87vh;
+    width: 100vw;
+    margin-top: 13vh;
+    overflow: hidden;
+    background-color: #f5f7fb;
+    /* z-index: 0; */
+   
+        -webkit-user-select: none; /* Safari */
+        -ms-user-select: none; /* IE 10 and IE 11 */
+        user-select: none; /* Standard syntax */
+      
+}

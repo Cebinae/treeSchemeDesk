@@ -1,0 +1,7 @@
+.scaleSection {
+    height: 100%;
+    width:auto;
+    background-color: #f5f7fb;
+    display: flex;
+    flex-direction: row;
+}
